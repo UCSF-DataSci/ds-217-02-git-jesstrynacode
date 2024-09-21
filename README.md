@@ -23,5 +23,5 @@ You mentioned you were interested in learning more about UCSF's secure generativ
 ## Screenshot of python installation
 ![Screenshot of python installation](python_installation_screenshot.png)
 
-## Funny Meme on programming environment
+## Funny Meme about programming environment
 ![Funny meme online on programming environment](internet_meme.webp)
