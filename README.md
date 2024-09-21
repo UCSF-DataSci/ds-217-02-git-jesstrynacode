@@ -1,27 +1,14 @@
-# Practical Exercise #1
+# Introduction
 
-1. Get everything installed (or use the cloud) and play around a bit
-2. Create an account on GitHub 
-    1. Apply for [GitHub Education](https://docs.github.com/en/education/explore-the-benefits-of-teaching-and-learning-with-github-education/github-education-for-students/apply-to-github-education-as-a-student)
-    2. [Join the course and see next week's assignment](https://classroom.github.com/assignment-invitations/1e58c44840d34d542efc4c77c0ab0c2f/status)
-3. Create a Python script that prints "Hello, Data Science!"
-    1. Save it as hello_ds.py
-    2. Run it from the command line
-    3. Use command line to create a scripts folder and move your file into it
-4. Write a Python script to solve the following:
-    >If we list all the natural numbers below 10 that are multiples of 3 or 5, we get (3, 5, 6, 9).
-    >The sum of these multiples is 23. Find the sum of all the multiples of 3 or 5 below 1000.
-5. Email me:
-    1. GitHub username
-    2. Answer to the problem above + script you wrote to solve it
-    3. Brief introduction (who are you, why are you here, anything you're specifically hoping to get out of the course)
+My name is Jess Huang. I am a pediatric critical care fellow and enrolled in the master's program for clinical research in the data science track. My research interest is in acute kidney injury (AKI) for critically ill children and specifically trying to understand factors that promote recovery from AKI as well as risk factors for progression to chronic kidney disease.
 
-For help, see the official Python [website](https://www.python.org/)
+# Why Python
+ I want to work with big data (i.e., EHR) to create prediction model and use machine learning techniques. I am familiar with R but have heard that python can be a very powerful tool for machine learning, which is why I am taking this class. I am hoping this class will give me the foundation and [Python](https://www.python.org/) proficiency to build common ML/AI solutions using python. 
 
-You mentioned you were interested in learning more about UCSF's secure generative AI platform, [Versa](https://ai.ucsf.edu/platforms-tools-and-resources/versa-chat-and-api).
+ Speaking of AI, you mentioned you were interested in learning more about UCSF's secure generative AI platform, [Versa](https://ai.ucsf.edu/platforms-tools-and-resources/versa-chat-and-api).
 
-## Screenshot of python installation
+# Screenshot of installing panda package
 ![Screenshot of python installation](python_installation_screenshot.png)
 
-## Funny Meme about programming environment
+# Funny Meme about programming environment
 ![Funny meme online on programming environment](internet_meme.webp)
